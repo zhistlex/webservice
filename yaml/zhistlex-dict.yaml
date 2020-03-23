@@ -3,8 +3,8 @@ info:
   title: ZHistLex Dictionary API
   version: 0.0.4
   license:
-    name: CreativeCommons Attribution 4.0 International (CC BY 4.0)
-    url: 'https://creativecommons.org/licenses/by/4.0/'
+    name: GNU General Public License, version 2
+    url: 'https://www.gnu.org/licenses/old-licenses/gpl-2.0.html'
   contact:
     name: ZHistLex – eHumanities Centre for Historical Lexikography (Work Package 2)
     url: 'http://zhistlex.de/'
@@ -15,11 +15,6 @@ info:
     This API specification describes the webservice for accessing lexical
     resources used by the ZHistLex project. 
 
-
-    # Design Principles
-
-
-    … TODO
 servers:
   - url: 'http://urts55.uni-trier.de:8111/api/AWB'
   - url: 'http://urts55.uni-trier.de:8111/api/BMZ'
